@@ -1,5 +1,5 @@
 # Transmission Control Protocol and Internet Protocol 
-Learning C by building a TCP/IP stack from scratch 
+
 
 ```
 
